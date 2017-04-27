@@ -8,4 +8,4 @@
 
 import pkg_resources
 
-DATA = pkg_resources.resource_filename('nau_orchard', 'core')
+DATA = pkg_resources.resource_filename('orchard', 'core')
