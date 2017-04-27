@@ -14,7 +14,7 @@ from click.testing import CliRunner
 
 from orchard.cli import orchard
 
-DATA = pkg_resources.resource_filename('nau-orchard', 'tests')
+DATA = pkg_resources.resource_filename('nau_orchard', 'tests')
 
 
 class TestOrchard(unittest.TestCase):
